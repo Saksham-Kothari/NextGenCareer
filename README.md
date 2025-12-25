@@ -1,9 +1,12 @@
+Here is the **README with properly formatted Markdown links** (clickable and clean). You can paste this **directly as code** into `README.md` 👇
+
 ```md
 # 🚀 NextGenCareer
 
 **NextGenCareer** is a modern career guidance and exploration platform built with **Next.js**, aimed at helping users explore career paths and prepare for future opportunities.
 
-🌐 Live Demo: https://next-gen-career.vercel.app/
+🌐 **Live Demo:**  
+👉 [https://next-gen-career.vercel.app/](https://next-gen-career.vercel.app/)
 
 ---
 
@@ -20,11 +23,11 @@
 
 ## 🛠 Tech Stack
 
-- **Framework:** Next.js  
-- **Language:** TypeScript  
-- **Styling:** CSS / Tailwind CSS  
-- **Fonts:** next/font (Inter – Google Font)  
-- **Deployment:** Vercel  
+- **Framework:** [Next.js](https://nextjs.org/)
+- **Language:** TypeScript
+- **Styling:** CSS / Tailwind CSS
+- **Fonts:** [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
+- **Deployment:** [Vercel](https://vercel.com/)
 
 ---
 
@@ -83,7 +86,7 @@ bun dev
 
 ### 5️⃣ Open in browser
 
-Visit 👉 [http://localhost:3000](http://localhost:3000)
+👉 [http://localhost:3000](http://localhost:3000)
 
 ---
 
@@ -101,25 +104,23 @@ The app supports **hot reloading**, so changes appear instantly.
 
 ## 📚 Learn More
 
-* Next.js Documentation: [https://nextjs.org/docs](https://nextjs.org/docs)
-* Learn Next.js: [https://nextjs.org/learn](https://nextjs.org/learn)
-* Next.js GitHub: [https://github.com/vercel/next.js](https://github.com/vercel/next.js)
+* 📘 [Next.js Documentation](https://nextjs.org/docs)
+* 🎓 [Learn Next.js](https://nextjs.org/learn)
+* 💻 [Next.js GitHub Repository](https://github.com/vercel/next.js)
 
 ---
 
 ## 🚀 Deployment
 
-The easiest way to deploy a Next.js app is using **Vercel**.
+Deploy easily using **Vercel**:
 
-Steps:
-
-1. Push the project to GitHub
+1. Push your code to GitHub
 2. Go to [https://vercel.com](https://vercel.com)
 3. Import the repository
 4. Deploy 🚀
 
-Deployment guide:
-[https://nextjs.org/docs/deployment](https://nextjs.org/docs/deployment)
+📖 Deployment Guide:
+👉 [https://nextjs.org/docs/deployment](https://nextjs.org/docs/deployment)
 
 ---
 
@@ -127,8 +128,8 @@ Deployment guide:
 
 **Saksham Kothari**
 
-* GitHub: [https://github.com/Saksham-Kothari](https://github.com/Saksham-Kothari)
-* LinkedIn: [https://www.linkedin.com/in/sakshamkothari](https://www.linkedin.com/in/sakshamkothari)
+* 🔗 GitHub: [https://github.com/Saksham-Kothari](https://github.com/Saksham-Kothari)
+* 💼 LinkedIn: [https://www.linkedin.com/in/sakshamkothari](https://www.linkedin.com/in/sakshamkothari)
 
 ---
 
@@ -138,5 +139,10 @@ This project is licensed under the **MIT License**.
 
 ```
 
-If you want a **shorter README**, **resume-optimized version**, or **badges added**, tell me and I’ll adjust it 👍
+If you want:
+- GitHub **badges**
+- A **short README** for recruiters
+- README optimized for **hackathons / internships**
+
+Just tell me 👍
 ```
