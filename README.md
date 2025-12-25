@@ -1,6 +1,3 @@
-Here is the **README with properly formatted Markdown links** (clickable and clean). You can paste this **directly as code** into `README.md` 👇
-
-```md
 # 🚀 NextGenCareer
 
 **NextGenCareer** is a modern career guidance and exploration platform built with **Next.js**, aimed at helping users explore career paths and prepare for future opportunities.
