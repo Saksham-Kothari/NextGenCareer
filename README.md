@@ -3,7 +3,7 @@
 
 **NextGenCareer** is a modern career guidance and exploration platform built with **Next.js**, aimed at helping users explore career paths and prepare for future opportunities.
 
-🌐 **Live Demo:** https://next-gen-career.vercel.app/
+🌐 Live Demo: https://next-gen-career.vercel.app/
 
 ---
 
