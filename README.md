@@ -1,38 +1,112 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🚀 NextGenCareer
 
-## Getting Started
+NextGenCareer is a modern career guidance and exploration platform built with Next.js, designed to help users navigate career paths, explore opportunities, and prepare for the next generation of jobs.
 
-First, run the development server:
+🌐 Live Demo: https://next-gen-career.vercel.app/
 
-```bash
+📌 Features
+
+⚡ Built with Next.js App Router
+
+🎨 Clean and responsive UI
+
+📱 Mobile-friendly design
+
+🚀 Fast performance and optimized fonts
+
+🌍 Deployed seamlessly on Vercel
+
+🧩 Scalable and modular project structure
+
+🛠 Tech Stack
+
+Framework: Next.js
+
+Language: TypeScript
+
+Styling: CSS / Tailwind CSS (if applicable)
+
+Fonts: next/font (Inter – Google Font)
+
+Deployment: Vercel
+
+📂 Project Structure
+NextGenCareer/
+├── app/
+│   ├── page.tsx
+│   ├── layout.tsx
+│   └── globals.css
+├── public/
+├── package.json
+├── next.config.js
+└── README.md
+
+⚙️ Getting Started
+
+Follow these steps to run the project locally:
+
+1️⃣ Clone the repository
+git clone https://github.com/Saksham-Kothari/NextGenCareer.git
+
+2️⃣ Navigate to the project directory
+cd NextGenCareer
+
+3️⃣ Install dependencies
+npm install
+# or
+yarn install
+# or
+pnpm install
+
+4️⃣ Run the development server
 npm run dev
 # or
 yarn dev
 # or
 pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+5️⃣ Open in browser
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Visit 👉 http://localhost:3000
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+✏️ Editing the Project
 
-## Learn More
+You can start editing the homepage by modifying:
 
-To learn more about Next.js, take a look at the following resources:
+app/page.tsx
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+The app supports hot reload, so changes will reflect instantly.
 
-## Deploy on Vercel
+📚 Learn More
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📘 Next.js Documentation
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# NextGenCareer
-# NextGenCareer
+🎓 Learn Next.js
+
+🧑‍💻 Next.js GitHub Repository
+
+🚀 Deployment
+
+The project is deployed using Vercel, the official platform for Next.js.
+
+To deploy your own version:
+
+Push your code to GitHub
+
+Visit https://vercel.com
+
+Import the repository
+
+Deploy 🚀
+
+For more details:
+👉 https://nextjs.org/docs/deployment
+
+👨‍💻 Author
+
+Saksham Kothari
+
+GitHub: https://github.com/Saksham-Kothari
+
+LinkedIn: https://www.linkedin.com/in/sakshamkothari
